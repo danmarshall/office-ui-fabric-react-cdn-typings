@@ -1,0 +1,23 @@
+{
+  "name": "office-ui-fabric-react-cdn-typings",
+  "version": "1.0.0",
+  "description": "Typings for the CDN distribution of office-ui-fabric-react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danmarshall/office-ui-fabric-react-cdn-typings.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danmarshall/office-ui-fabric-react-cdn-typings/issues"
+  },
+  "homepage": "https://github.com/danmarshall/office-ui-fabric-react-cdn-typings#readme",
+  "dependencies": {
+    "office-ui-fabric-react": "^6.128.0"
+  }
+}
